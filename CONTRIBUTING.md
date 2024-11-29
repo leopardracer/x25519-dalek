@@ -11,7 +11,7 @@ Patches are welcomed as pull requests on
 [our Github](https://github.com/dalek-cryptography/x25519-dalek), as well as by
 email (preferably sent to all of the authors listed in `Cargo.toml`).
 
-All issues on curve25519-dalek are mentored, if you want help with a bug just
+All issues on curve25519-dalek are mentoring, if you want help with a bug just
 ask @isislovecruft.
 
 Some issues are easier than others. The `easy` label can be used to find the
